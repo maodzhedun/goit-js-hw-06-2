@@ -26,3 +26,15 @@ button {
 .img{
   width: 300px;
 }
+
+.js-gallery {
+  display: flex;
+  gap: 5px;
+}
+
+img {
+  border: 3px solid purple;
+  border-radius: 5px;
+  max-width: 100%;
+  height: 100%;
+}
